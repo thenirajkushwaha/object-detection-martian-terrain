@@ -1,0 +1,8 @@
+path: /home/niraj/Documents/partitionB/sideworks/club/Drishti/object_detection/ann/datasets/mars_terrain
+train: images/train
+val: images/val
+names:
+  0: payload_target
+  1: traffic_cone
+  2: landing_circle
+  3: drone_shadow

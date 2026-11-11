@@ -1,0 +1,15 @@
+image,id,label,confidence,x,y,width,height,center_x,center_y,area_px,latency_ms
+WhatsApp Image 2026-10-21 at 19.13.39 (2).jpeg,1,traffic_cone,0.768,405,160,30,27,420,173,810,27.57
+WhatsApp Image 2026-10-21 at 19.13.39.jpeg,1,traffic_cone,0.852,266,195,44,34,288,212,1496,30.45
+WhatsApp Image 2026-10-21 at 19.13.40 (1).jpeg,1,traffic_cone,0.8671,486,146,30,24,501,158,720,25.31
+WhatsApp Image 2026-10-21 at 19.13.40 (2).jpeg,1,traffic_cone,0.5993,555,186,16,22,563,197,352,22.94
+WhatsApp Image 2026-10-21 at 19.13.40.jpeg,1,traffic_cone,0.7562,334,263,31,30,349,278,930,24.86
+WhatsApp Image 2026-10-21 at 19.13.41 (1).jpeg,1,landing_circle,0.874,175,154,213,193,281,250,41109,28.64
+WhatsApp Image 2026-10-21 at 19.13.41 (1).jpeg,2,traffic_cone,0.7834,245,240,37,38,263,259,1406,28.64
+WhatsApp Image 2026-10-21 at 19.13.42 (1).jpeg,1,landing_circle,0.926,170,134,215,197,277,232,42355,22.28
+WhatsApp Image 2026-10-21 at 19.13.42 (1).jpeg,2,traffic_cone,0.7747,234,227,32,34,250,244,1088,22.28
+WhatsApp Image 2026-10-21 at 19.13.42 (2).jpeg,1,traffic_cone,0.8608,510,241,38,33,529,257,1254,27.54
+WhatsApp Image 2026-10-21 at 19.13.42 (2).jpeg,2,landing_circle,0.6638,283,120,203,232,384,236,47096,27.54
+WhatsApp Image 2026-10-21 at 19.13.42.jpeg,1,traffic_cone,0.7575,394,301,27,26,407,314,702,24.32
+WhatsApp Image 2026-10-21 at 19.13.43 (1).jpeg,1,traffic_cone,0.778,250,229,34,39,267,248,1326,23.93
+WhatsApp Image 2026-10-21 at 19.13.43.jpeg,1,traffic_cone,0.6229,392,156,35,27,409,169,945,24.18

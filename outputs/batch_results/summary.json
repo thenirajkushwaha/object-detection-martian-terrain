@@ -1,0 +1,13 @@
+{
+  "input_directory": "/home/niraj/Documents/partitionB/sideworks/club/Drishti/object_detection/ann/mars_terrain",
+  "output_directory": "/home/niraj/Documents/partitionB/sideworks/club/Drishti/object_detection/ann/outputs/batch_results",
+  "total_images": 13,
+  "total_detections": 14,
+  "class_breakdown": {
+    "traffic_cone": 11,
+    "landing_circle": 3
+  },
+  "mean_latency_ms": 26.05,
+  "mean_fps": 38.4,
+  "model_path": "mars_terrain_nano.onnx"
+}

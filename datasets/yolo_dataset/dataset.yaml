@@ -1,0 +1,7 @@
+path: /home/niraj/Documents/partitionB/sideworks/club/Drishti/object_detection/ann/datasets/yolo_dataset
+train: images/train
+val: images/val
+names:
+  0: object
+  1: cone
+  2: landing_mark

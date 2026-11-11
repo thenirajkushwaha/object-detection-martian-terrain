@@ -1,0 +1,28 @@
+image,id,label,confidence,x,y,width,height,center_x,center_y,area_px,latency_ms
+WhatsApp Image 2026-10-21 at 19.13.39 (2).jpeg,1,payload_target,0.7236,407,164,28,19,421,173,532,32.93
+WhatsApp Image 2026-10-21 at 19.13.39 (2).jpeg,2,drone_shadow,0.6536,391,101,58,54,420,128,3132,32.93
+WhatsApp Image 2026-10-21 at 19.13.39.jpeg,1,payload_target,0.9547,270,197,40,30,290,212,1200,29.64
+WhatsApp Image 2026-10-21 at 19.13.39.jpeg,2,drone_shadow,0.6198,371,97,60,59,401,126,3540,29.64
+WhatsApp Image 2026-10-21 at 19.13.40 (1).jpeg,1,landing_circle,0.9541,341,95,124,129,403,159,15996,105.36
+WhatsApp Image 2026-10-21 at 19.13.40 (1).jpeg,2,payload_target,0.7014,488,150,34,20,505,160,680,105.36
+WhatsApp Image 2026-10-21 at 19.13.40.jpeg,1,landing_circle,0.9684,284,246,126,112,347,302,14112,131.92
+WhatsApp Image 2026-10-21 at 19.13.40.jpeg,2,drone_shadow,0.2646,330,264,70,54,365,291,3780,131.92
+WhatsApp Image 2026-10-21 at 19.13.40.jpeg,3,payload_target,0.2488,471,310,44,52,493,336,2288,131.92
+WhatsApp Image 2026-10-21 at 19.13.41 (1).jpeg,1,landing_circle,0.9045,298,232,119,120,357,292,14280,42.49
+WhatsApp Image 2026-10-21 at 19.13.41 (1).jpeg,2,drone_shadow,0.2718,339,249,58,58,368,278,3364,42.49
+WhatsApp Image 2026-10-21 at 19.13.41 (1).jpeg,3,payload_target,0.2293,336,191,43,49,357,215,2107,42.49
+WhatsApp Image 2026-10-21 at 19.13.41.jpeg,1,drone_shadow,0.4576,111,325,48,46,135,348,2208,31.41
+WhatsApp Image 2026-10-21 at 19.13.41.jpeg,2,landing_circle,0.3459,298,321,130,111,363,376,14430,31.41
+WhatsApp Image 2026-10-21 at 19.13.42 (1).jpeg,1,landing_circle,0.9507,287,231,123,117,348,289,14391,27.75
+WhatsApp Image 2026-10-21 at 19.13.42 (1).jpeg,2,drone_shadow,0.3467,338,247,48,48,362,271,2304,27.75
+WhatsApp Image 2026-10-21 at 19.13.42 (2).jpeg,1,payload_target,0.7194,268,222,59,63,297,253,3717,130.53
+WhatsApp Image 2026-10-21 at 19.13.42 (2).jpeg,2,drone_shadow,0.5969,361,318,38,36,380,336,1368,130.53
+WhatsApp Image 2026-10-21 at 19.13.42 (2).jpeg,3,landing_circle,0.206,483,232,86,87,526,275,7482,130.53
+WhatsApp Image 2026-10-21 at 19.13.42.jpeg,1,drone_shadow,0.207,375,328,63,61,406,358,3843,106.9
+WhatsApp Image 2026-10-21 at 19.13.43 (1).jpeg,1,landing_circle,0.7051,287,227,116,107,345,280,12412,107.06
+WhatsApp Image 2026-10-21 at 19.13.43 (1).jpeg,2,payload_target,0.4585,250,246,30,20,265,256,600,107.06
+WhatsApp Image 2026-10-21 at 19.13.43 (1).jpeg,3,landing_circle,0.406,25,253,131,106,90,306,13886,107.06
+WhatsApp Image 2026-10-21 at 19.13.43 (1).jpeg,4,drone_shadow,0.3972,398,109,60,55,428,136,3300,107.06
+WhatsApp Image 2026-10-21 at 19.13.43 (1).jpeg,5,landing_circle,0.3527,207,199,151,136,282,267,20536,107.06
+WhatsApp Image 2026-10-21 at 19.13.43.jpeg,1,drone_shadow,0.5121,377,107,57,55,405,134,3135,106.78
+WhatsApp Image 2026-10-21 at 19.13.43.jpeg,2,payload_target,0.5093,391,158,37,23,409,169,851,106.78
